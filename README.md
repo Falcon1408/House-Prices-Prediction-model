@@ -46,11 +46,11 @@ If you have any questions or would like to discuss the project, feel free to rea
 
 Name: Mithil Shah
 
-Email: [Your Email Here]
+Email: mithilshah2004@gmail.com
 
 GitHub: Falcon1408
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: (https://www.linkedin.com/in/mithil-shah-5b7b3b284/)
 
 Why This Project?
 
