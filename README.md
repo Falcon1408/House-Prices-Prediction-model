@@ -30,15 +30,23 @@ Successfully predicted house prices with minimal error.
 Visualized insights on key factors influencing house prices.
 
 Future Improvements:
+
 Incorporate deep learning techniques for enhanced accuracy.
+
 Deploy as a web application for user-friendly access.
+
 Improve feature selection and hyperparameter tuning.
 
 Contact:
+
 If you have any questions or would like to discuss the project, feel free to reach out:
+
 Name: Mithil Shah
+
 Email: mithilshah2004@gmail.com
+
 GitHub: Falcon1408
+
 LinkedIn: (https://www.linkedin.com/in/mithil-shah-5b7b3b284/)
 
 Why This Project?
