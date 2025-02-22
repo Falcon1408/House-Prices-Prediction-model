@@ -23,3 +23,36 @@ Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 Development Tools: Jupyter Notebook, Git, GitHub
+
+Results
+
+Achieved an R² score of X.XX on the test dataset.
+
+Successfully predicted house prices with minimal error.
+
+Visualized insights on key factors influencing house prices.
+
+Future Improvements
+
+Incorporate deep learning techniques for enhanced accuracy.
+
+Deploy as a web application for user-friendly access.
+
+Improve feature selection and hyperparameter tuning.
+
+Contact
+
+If you have any questions or would like to discuss the project, feel free to reach out:
+
+Name: Mithil Shah
+
+Email: [Your Email Here]
+
+GitHub: Falcon1408
+
+LinkedIn: [Your LinkedIn Profile]
+
+Why This Project?
+
+This project demonstrates my ability to work with real-world datasets, apply machine learning techniques, and build predictive models that generate meaningful insights. I am eager to contribute my skills in data science and software development to innovative projects.
+
